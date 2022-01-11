@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<КоммерческаяИнформация ВерсияСхемы="2.021" ДатаФормирования="2019-01-10T16:27:42">
+	<Классификатор>
+		<Ид>furniture_products_s1</Ид>
+		<Наименование>Услуги</Наименование>
+		<Свойства>
+			<Свойство>
+				<Ид>CML2_ACTIVE</Ид>
+				<Наименование>БитриксАктивность</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_CODE</Ид>
+				<Наименование>Символьный код</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_SORT</Ид>
+				<Наименование>Сортировка</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_ACTIVE_FROM</Ид>
+				<Наименование>Начало активности</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_ACTIVE_TO</Ид>
+				<Наименование>Окончание активности</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_PREVIEW_TEXT</Ид>
+				<Наименование>Анонс</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_DETAIL_TEXT</Ид>
+				<Наименование>Описание</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>CML2_PREVIEW_PICTURE</Ид>
+				<Наименование>Картинка анонса</Наименование>
+				<Множественное>false</Множественное>
+			</Свойство>
+			<Свойство>
+				<Ид>5</Ид>
+				<Наименование>Специальное предложение</Наименование>
+				<Множественное>false</Множественное>
+				<ВариантыЗначений>
+					<Значение>да</Значение>
+					<Вариант>
+						<Ид>Y</Ид>
+						<Значение>да</Значение>
+						<ПоУмолчанию>false</ПоУмолчанию>
+						<Сортировка>500</Сортировка>
+					</Вариант>
+				</ВариантыЗначений>
+				<БитриксСортировка>100</БитриксСортировка>
+				<БитриксКод>SPECIALOFFER</БитриксКод>
+				<БитриксТипСвойства>L</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>C</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+			<Свойство>
+				<Ид>6</Ид>
+				<Наименование>Цена</Наименование>
+				<Множественное>false</Множественное>
+				<БитриксСортировка>200</БитриксСортировка>
+				<БитриксКод>PRICE</БитриксКод>
+				<БитриксТипСвойства>N</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>L</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+			<Свойство>
+				<Ид>7</Ид>
+				<Наименование>Валюта цены (подпись)</Наименование>
+				<Множественное>false</Множественное>
+				<ВариантыЗначений>
+					<Значение>руб.</Значение>
+					<Вариант>
+						<Ид>corp_cf_cur_1</Ид>
+						<Значение>руб.</Значение>
+						<ПоУмолчанию>true</ПоУмолчанию>
+						<Сортировка>10</Сортировка>
+					</Вариант>
+					<Значение>$</Значение>
+					<Вариант>
+						<Ид>corp_cf_cur_3</Ид>
+						<Значение>$</Значение>
+						<ПоУмолчанию>false</ПоУмолчанию>
+						<Сортировка>20</Сортировка>
+					</Вариант>
+					<Значение>€</Значение>
+					<Вариант>
+						<Ид>corp_cf_cur_2</Ид>
+						<Значение>€</Значение>
+						<ПоУмолчанию>false</ПоУмолчанию>
+						<Сортировка>30</Сортировка>
+					</Вариант>
+				</ВариантыЗначений>
+				<БитриксСортировка>300</БитриксСортировка>
+				<БитриксКод>PRICECURRENCY</БитриксКод>
+				<БитриксТипСвойства>L</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>C</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+			<Свойство>
+				<Ид>8</Ид>
+				<Наименование>Габариты (Д х Ш х В)</Наименование>
+				<Множественное>false</Множественное>
+				<БитриксСортировка>400</БитриксСортировка>
+				<БитриксКод>SIZE</БитриксКод>
+				<БитриксТипСвойства>S</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>L</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+			<Свойство>
+				<Ид>9</Ид>
+				<Наименование>Размеры спального места</Наименование>
+				<Множественное>false</Множественное>
+				<БитриксСортировка>500</БитриксСортировка>
+				<БитриксКод>S_SIZE</БитриксКод>
+				<БитриксТипСвойства>S</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>L</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+			<Свойство>
+				<Ид>10</Ид>
+				<Наименование>Артикул</Наименование>
+				<Множественное>false</Множественное>
+				<БитриксСортировка>600</БитриксСортировка>
+				<БитриксКод>ARTNUMBER</БитриксКод>
+				<БитриксТипСвойства>S</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>L</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+			<Свойство>
+				<Ид>11</Ид>
+				<Наименование>Материал</Наименование>
+				<Множественное>false</Множественное>
+				<БитриксСортировка>700</БитриксСортировка>
+				<БитриксКод>MATERIAL</БитриксКод>
+				<БитриксТипСвойства>S</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>L</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+			<Свойство>
+				<Ид>12</Ид>
+				<Наименование>Производитель</Наименование>
+				<Множественное>false</Множественное>
+				<БитриксСортировка>800</БитриксСортировка>
+				<БитриксКод>MANUFACTURER</БитриксКод>
+				<БитриксТипСвойства>S</БитриксТипСвойства>
+				<БитриксСтрок>1</БитриксСтрок>
+				<БитриксКолонок>30</БитриксКолонок>
+				<БитриксТипСписка>L</БитриксТипСписка>
+				<БитриксТипыФайлов></БитриксТипыФайлов>
+				<БитриксКоличествоПолей>5</БитриксКоличествоПолей>
+				<БитриксСвязанныйИнфоблок></БитриксСвязанныйИнфоблок>
+				<БитриксОписаниеРазрешено>false</БитриксОписаниеРазрешено>
+				<БитриксПоискРазрешен>false</БитриксПоискРазрешен>
+				<БитриксФильтрРазрешен>false</БитриксФильтрРазрешен>
+				<БитриксРасширениеТипа></БитриксРасширениеТипа>
+				<БитриксОбязательное>false</БитриксОбязательное>
+				<БитриксЗначениеПоУмолчанию>s:0:&quot;&quot;;</БитриксЗначениеПоУмолчанию>
+				<Сериализовано>1</Сериализовано>
+			</Свойство>
+		</Свойства>
+		<СвойстваЭлементов>
+			<Свойство>
+				<Ид>5</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>F</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+			<Свойство>
+				<Ид>6</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>A</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+			<Свойство>
+				<Ид>7</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>F</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+			<Свойство>
+				<Ид>8</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>F</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+			<Свойство>
+				<Ид>9</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>F</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+			<Свойство>
+				<Ид>10</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>F</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+			<Свойство>
+				<Ид>11</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>F</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+			<Свойство>
+				<Ид>12</Ид>
+				<УмныйФильтр>false</УмныйФильтр>
+				<ТипОтображения>F</ТипОтображения>
+				<ПоказатьРазвёрнутым>false</ПоказатьРазвёрнутым>
+				<Подсказка></Подсказка>
+			</Свойство>
+		</СвойстваЭлементов>
+		<Группы>
+			<Группа>
+				<Ид>2</Ид>
+				<Наименование>Вызов электрика на дом</Наименование>
+				<БитриксАктивность>true</БитриксАктивность>
+				<БитриксСортировка>100</БитриксСортировка>
+				<БитриксКод>vyzov_elektrika_na_dom</БитриксКод>
+				<БитриксКартинка>services_files/iblock/288/288360121ca5062906657ce6a52979ef.jpg</БитриксКартинка>
+				<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+				<Группы>
+					<Группа>
+						<Ид>7</Ид>
+						<Наименование>Замена розеток</Наименование>
+						<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+						<БитриксАктивность>true</БитриксАктивность>
+						<БитриксСортировка>10</БитриксСортировка>
+						<БитриксКод>zamena_rozetok</БитриксКод>
+						<БитриксКартинка>services_files/iblock/4b5/4b56f88c2fd875f28a10f2ea4ac7980a.jpg</БитриксКартинка>
+						<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+						<Группы>
+						</Группы>
+					</Группа>
+					<Группа>
+						<Ид>8</Ид>
+						<Наименование>Замена проводки</Наименование>
+						<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+						<БитриксАктивность>true</БитриксАктивность>
+						<БитриксСортировка>20</БитриксСортировка>
+						<БитриксКод>zamena_provodki</БитриксКод>
+						<БитриксКартинка>services_files/iblock/64d/64d47fc1901685de22df2fe43068d903.jpg</БитриксКартинка>
+						<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+						<Группы>
+						</Группы>
+					</Группа>
+					<Группа>
+						<Ид>9</Ид>
+						<Наименование>Установка счетчика</Наименование>
+						<Описание>&amp;lt;div class=&amp;quot;push35&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;div class=&amp;quot;content&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;h4 class=&amp;quot;black&amp;quot;&amp;gt;Cложившаяся структура организации представляет собой интересный эксперимент:&amp;lt;/h4&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;ul class=&amp;quot;list&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;li&amp;gt;восстановление геометрии кузова,&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;li&amp;gt;устрание вмятин и заломов,&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;li&amp;gt;исправление деформации разной степени сложности,&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;li&amp;gt;сварочные работы &amp;#40;в т.ч. с алюминиевыми элементами кузова&amp;#41;,&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;li&amp;gt;восстановление пластиковых деталей.&amp;lt;/li&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/ul&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;p&amp;gt;&lt;br /&gt;
+ &amp;lt;b&amp;gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&amp;lt;/b&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;blockquote&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу &amp;#40;специалистов&amp;#41; участие в формировании модели развития.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/blockquote&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;p&amp;gt;&lt;br /&gt;
+ &amp;lt;em&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &amp;lt;/em&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;p&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/p&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;div class=&amp;quot;push10&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;div class=&amp;quot;prices&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;div class=&amp;quot;title-h3&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Цены&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;table class=&amp;quot;tpl-table&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;tbody&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Слесарная работа 1 шт &amp;#40;0,5 часа&amp;#41;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; от 300р.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Замена втулки стабилизатора, 1 шт&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; от 350р.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Замена втулки стабилизатора, 2 шт&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; от 600р.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Замена стойки стабилизатора&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; от 300р.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Замена рулевого наконечника&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; от 300р.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/td&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/tr&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/tbody&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/table&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;script src=&amp;quot;&lt;a class=&quot;txttohtmllink&quot; href=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&lt;/a&gt;&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script src=&amp;quot;&lt;a class=&quot;txttohtmllink&quot; href=&quot;http://yastatic.net/share2/share.js&quot;&gt;http://yastatic.net/share2/share.js&lt;/a&gt;&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;div class=&amp;quot;ya-share2&amp;quot; data-services=&amp;quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&amp;quot; data-counter=&amp;quot;&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+&amp;lt;div class=&amp;quot;push30&amp;quot;&amp;gt;&lt;br /&gt;
+&amp;lt;/div&amp;gt;&lt;br /&gt;
+ &amp;lt;br&amp;gt;</Описание>
+						<БитриксАктивность>true</БитриксАктивность>
+						<БитриксСортировка>40</БитриксСортировка>
+						<БитриксКод>ustanovka_schetchika</БитриксКод>
+						<БитриксКартинка>services_files/iblock/765/765eb1cff7ec2384740d64f08bcb84b3.jpg</БитриксКартинка>
+						<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+						<Группы>
+						</Группы>
+					</Группа>
+					<Группа>
+						<Ид>10</Ид>
+						<Наименование>Установка электро-щитка</Наименование>
+						<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+						<БитриксАктивность>true</БитриксАктивность>
+						<БитриксСортировка>50</БитриксСортировка>
+						<БитриксКод>ustanovka_elektro_shchitka</БитриксКод>
+						<БитриксКартинка>services_files/iblock/118/11883e487d3b212f7c06379f781e57a3.jpg</БитриксКартинка>
+						<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+						<Группы>
+						</Группы>
+					</Группа>
+				</Группы>
+			</Группа>
+			<Группа>
+				<Ид>3</Ид>
+				<Наименование>Вызов сантехника на дом</Наименование>
+				<БитриксАктивность>true</БитриксАктивность>
+				<БитриксСортировка>200</БитриксСортировка>
+				<БитриксКод>vyzov_santekhnika_na_dom</БитриксКод>
+				<БитриксКартинка>services_files/iblock/fb6/fb6728ed18eb8d1bb80f1e2ccc67a608.jpg</БитриксКартинка>
+				<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+				<Группы>
+					<Группа>
+						<Ид>11</Ид>
+						<Наименование>Установка душевой кабины</Наименование>
+						<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+						<БитриксАктивность>true</БитриксАктивность>
+						<БитриксСортировка>10</БитриксСортировка>
+						<БитриксКод>ustanovka_dushevoy_kabiny</БитриксКод>
+						<БитриксКартинка>services_files/iblock/fbd/fbdcf8af7bfa16cd89d3facde7413930.jpg</БитриксКартинка>
+						<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+						<Группы>
+						</Группы>
+					</Группа>
+					<Группа>
+						<Ид>12</Ид>
+						<Наименование>Установка смесителя</Наименование>
+						<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+						<БитриксАктивность>true</БитриксАктивность>
+						<БитриксСортировка>20</БитриксСортировка>
+						<БитриксКод>ustanovka_smesitelya</БитриксКод>
+						<БитриксКартинка>services_files/iblock/0d1/0d151bd6c3e7f9c7394149548764f5c5.jpg</БитриксКартинка>
+						<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+						<Группы>
+						</Группы>
+					</Группа>
+					<Группа>
+						<Ид>13</Ид>
+						<Наименование>Установка стиральной машины</Наименование>
+						<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+						<БитриксАктивность>true</БитриксАктивность>
+						<БитриксСортировка>30</БитриксСортировка>
+						<БитриксКод>ustanovka_stiralnoy_mashiny</БитриксКод>
+						<БитриксКартинка>services_files/iblock/f96/f96a3ded524ca3a7e67ed3092b63c7ab.jpg</БитриксКартинка>
+						<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+						<Группы>
+						</Группы>
+					</Группа>
+					<Группа>
+						<Ид>14</Ид>
+						<Наименование>Установка раковины</Наименование>
+						<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+						<БитриксАктивность>true</БитриксАктивность>
+						<БитриксСортировка>40</БитриксСортировка>
+						<БитриксКод>ustanovka_rakoviny</БитриксКод>
+						<БитриксКартинка>services_files/iblock/4b8/4b801fc111af02254cfe88065c9f207d.jpg</БитриксКартинка>
+						<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+						<Группы>
+						</Группы>
+					</Группа>
+				</Группы>
+			</Группа>
+			<Группа>
+				<Ид>4</Ид>
+				<Наименование>Установка кондиционеров</Наименование>
+				<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+				<БитриксАктивность>true</БитриксАктивность>
+				<БитриксСортировка>300</БитриксСортировка>
+				<БитриксКод>ustanovka_konditsionerov</БитриксКод>
+				<БитриксКартинка>services_files/iblock/425/425333a5bcd7f21a3b3c280ac4a9c6a0.jpg</БитриксКартинка>
+				<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+				<Группы>
+				</Группы>
+			</Группа>
+			<Группа>
+				<Ид>5</Ид>
+				<Наименование>Установка пластиковых окон</Наименование>
+				<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+				<БитриксАктивность>true</БитриксАктивность>
+				<БитриксСортировка>400</БитриксСортировка>
+				<БитриксКод>ustanovka_plastikovykh_okon</БитриксКод>
+				<БитриксКартинка>services_files/iblock/ef8/ef8cc9beffbc6781f9b5676b08bfc65a.jpg</БитриксКартинка>
+				<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+				<Группы>
+				</Группы>
+			</Группа>
+			<Группа>
+				<Ид>c51cc770e35d7ac325312deefbfc3d88</Ид>
+				<Наименование>Установка вытяжек, вентиляций</Наименование>
+				<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+				<БитриксАктивность>true</БитриксАктивность>
+				<БитриксСортировка>500</БитриксСортировка>
+				<БитриксКод>ustanovka_vytyazhek_ventilyatsiy</БитриксКод>
+				<БитриксКартинка>services_files/iblock/bdb/bdb1d6e9599585fea859ba25f8f74468.jpg</БитриксКартинка>
+				<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+				<Группы>
+				</Группы>
+			</Группа>
+			<Группа>
+				<Ид>6</Ид>
+				<Наименование>Сборка мебели</Наименование>
+				<Описание>&lt;div class=&quot;push35&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;content&quot;&gt;
+	&lt;h4 class=&quot;black&quot;&gt;Cложившаяся структура организации представляет собой интересный эксперимент:&lt;/h4&gt;
+	&lt;ul class=&quot;list&quot;&gt;
+		&lt;li&gt;восстановление геометрии кузова,&lt;/li&gt;
+		&lt;li&gt;устрание вмятин и заломов,&lt;/li&gt;
+		&lt;li&gt;исправление деформации разной степени сложности,&lt;/li&gt;
+		&lt;li&gt;сварочные работы (в т.ч. с алюминиевыми элементами кузова),&lt;/li&gt;
+		&lt;li&gt;восстановление пластиковых деталей.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;
+ &lt;b&gt;Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия.&lt;/b&gt;
+	&lt;/p&gt;
+	&lt;blockquote&gt;
+		 Повседневная практика показывает, что рамки и место обучения кадров требуют определения и уточнения направлений прогрессивного развития. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании модели развития.
+	&lt;/blockquote&gt;
+	&lt;p&gt;
+ &lt;em&gt;
+		Разнообразный и богатый опыт укрепление и развитие структуры требуют определения и уточнения существенных финансовых и административных условий. &lt;/em&gt;
+	&lt;/p&gt;
+	&lt;p&gt;
+		 Задача организации, в особенности же сложившаяся структура организации позволяет оценить значение новых предложений. Повседневная практика показывает, что реализация намеченных плановых заданий позволяет оценить значение дальнейших направлений развития.
+	&lt;/p&gt;
+	&lt;div class=&quot;push10&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;prices&quot;&gt;
+		&lt;div class=&quot;title-h3&quot;&gt;
+			 Цены
+		&lt;/div&gt;
+		&lt;table class=&quot;tpl-table&quot;&gt;
+		&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Слесарная работа 1 шт (0,5 часа)
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 1 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 350р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена втулки стабилизатора, 2 шт
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 600р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена стойки стабилизатора
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				 Замена рулевого наконечника
+			&lt;/td&gt;
+			&lt;td&gt;
+				 от 300р.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;/tbody&gt;
+		&lt;/table&gt;
+	&lt;/div&gt;
+	 &lt;script src=&quot;http://yastatic.net/es5-shims/0.0.2/es5-shims.min.js&quot;&gt;&lt;/script&gt; &lt;script src=&quot;http://yastatic.net/share2/share.js&quot;&gt;&lt;/script&gt;
+	&lt;div class=&quot;ya-share2&quot; data-services=&quot;collections,vkontakte,facebook,odnoklassniki,moimir,gplus&quot; data-counter=&quot;&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;push30&quot;&gt;
+&lt;/div&gt;
+ &lt;br&gt;</Описание>
+				<БитриксАктивность>true</БитриксАктивность>
+				<БитриксСортировка>600</БитриксСортировка>
+				<БитриксКод>sborka_mebeli</БитриксКод>
+				<БитриксКартинка>services_files/iblock/575/57543a753e8f8cc6e5fd85543bfa118c.jpg</БитриксКартинка>
+				<БитриксКартинкаДетальная></БитриксКартинкаДетальная>
+				<Группы>
+				</Группы>
+			</Группа>
+		</Группы>
+	</Классификатор>
+	<Каталог>
+		<Ид>furniture_products_s1</Ид>
+		<ИдКлассификатора>furniture_products_s1</ИдКлассификатора>
+		<Наименование>Услуги</Наименование>
+		<БитриксКод>furniture_products_s1</БитриксКод>
+		<БитриксСортировка>500</БитриксСортировка>
+		<БитриксURLСписок>#SITE_DIR#/services/</БитриксURLСписок>
+		<БитриксURLДеталь>#SITE_DIR#/products/#SECTION_ID#/#ID#/</БитриксURLДеталь>
+		<БитриксURLРаздел>#SITE_DIR#/services/#CODE#/</БитриксURLРаздел>
+		<БитриксURLКанонический></БитриксURLКанонический>
+		<БитриксКартинка></БитриксКартинка>
+		<БитриксИндексироватьЭлементы>true</БитриксИндексироватьЭлементы>
+		<БитриксИндексироватьРазделы>true</БитриксИндексироватьРазделы>
+		<БитриксДокументооборот>false</БитриксДокументооборот>
+		<БитриксПодписи>
+			<БитриксПодпись>
+				<Ид>ELEMENT_NAME</Ид>
+				<Значение>Элемент</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENTS_NAME</Ид>
+				<Значение>Товары</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_ADD</Ид>
+				<Значение>Добавить товар</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_EDIT</Ид>
+				<Значение>Изменить товар</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>ELEMENT_DELETE</Ид>
+				<Значение>Удалить товар</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_NAME</Ид>
+				<Значение>Раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTIONS_NAME</Ид>
+				<Значение>Разделы</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_ADD</Ид>
+				<Значение>Добавить раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_EDIT</Ид>
+				<Значение>Изменить раздел</Значение>
+			</БитриксПодпись>
+			<БитриксПодпись>
+				<Ид>SECTION_DELETE</Ид>
+				<Значение>Удалить раздел</Значение>
+			</БитриксПодпись>
+		</БитриксПодписи>
+		<Товары>
+			<Товар>
+				<Ид>64</Ид>
+				<Наименование>photo1</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+					<Ид>4</Ид>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение></Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение></Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>services_files/iblock/9f1/9f186a18828868005bc157165533d194.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>5</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>6</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>7</Ид>
+						<Значение>corp_cf_cur_1</Значение>
+						<ЗначениеСвойства>
+							<Значение>corp_cf_cur_1</Значение>
+							<Описание></Описание>
+						</ЗначениеСвойства>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>8</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>9</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>10</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>11</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>12</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>65</Ид>
+				<Наименование>photo2</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+					<Ид>4</Ид>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение></Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение></Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>services_files/iblock/2b3/2b32142072ec07ab8c95596ed716b53a.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>5</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>6</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>7</Ид>
+						<Значение>corp_cf_cur_1</Значение>
+						<ЗначениеСвойства>
+							<Значение>corp_cf_cur_1</Значение>
+							<Описание></Описание>
+						</ЗначениеСвойства>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>8</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>9</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>10</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>11</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>12</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+			<Товар>
+				<Ид>66</Ид>
+				<Наименование>photo3</Наименование>
+				<БитриксТеги></БитриксТеги>
+				<Группы>
+					<Ид>4</Ид>
+				</Группы>
+				<Картинка></Картинка>
+				<ЗначенияСвойств>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE</Ид>
+						<Значение>true</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_CODE</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_SORT</Ид>
+						<Значение>500</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_FROM</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_ACTIVE_TO</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_TEXT</Ид>
+						<Значение></Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_DETAIL_TEXT</Ид>
+						<Значение></Значение>
+						<Тип>text</Тип>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>CML2_PREVIEW_PICTURE</Ид>
+						<Значение>services_files/iblock/a1e/a1e22d925bbb555f77f4d3831959f7e2.jpg</Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>5</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>6</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>7</Ид>
+						<Значение>corp_cf_cur_1</Значение>
+						<ЗначениеСвойства>
+							<Значение>corp_cf_cur_1</Значение>
+							<Описание></Описание>
+						</ЗначениеСвойства>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>8</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>9</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>10</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>11</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+					<ЗначенияСвойства>
+						<Ид>12</Ид>
+						<Значение></Значение>
+					</ЗначенияСвойства>
+				</ЗначенияСвойств>
+			</Товар>
+		</Товары>
+	</Каталог>
+</КоммерческаяИнформация>
